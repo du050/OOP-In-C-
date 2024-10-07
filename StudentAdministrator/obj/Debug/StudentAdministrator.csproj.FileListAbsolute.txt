@@ -1,0 +1,7 @@
+C:\OOP2\StudentAdministrator\obj\Debug\StudentAdministrator.csproj.AssemblyReference.cache
+C:\OOP2\StudentAdministrator\obj\Debug\StudentAdministrator.csproj.CoreCompileInputs.cache
+C:\OOP2\StudentAdministrator\bin\Debug\StudentAdministrator.exe.config
+C:\OOP2\StudentAdministrator\bin\Debug\StudentAdministrator.exe
+C:\OOP2\StudentAdministrator\bin\Debug\StudentAdministrator.pdb
+C:\OOP2\StudentAdministrator\obj\Debug\StudentAdministrator.exe
+C:\OOP2\StudentAdministrator\obj\Debug\StudentAdministrator.pdb

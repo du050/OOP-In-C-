@@ -1,0 +1,7 @@
+C:\OOP2\BlogAdmin\bin\Debug\BlogAdmin.exe.config
+C:\OOP2\BlogAdmin\bin\Debug\BlogAdmin.exe
+C:\OOP2\BlogAdmin\bin\Debug\BlogAdmin.pdb
+C:\OOP2\BlogAdmin\obj\Debug\BlogAdmin.csproj.AssemblyReference.cache
+C:\OOP2\BlogAdmin\obj\Debug\BlogAdmin.csproj.CoreCompileInputs.cache
+C:\OOP2\BlogAdmin\obj\Debug\BlogAdmin.exe
+C:\OOP2\BlogAdmin\obj\Debug\BlogAdmin.pdb
